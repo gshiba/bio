@@ -13,3 +13,7 @@
 
 * https://arxiv.org/abs/1207.3907
 
+## CAPP-seq / iDES
+
+* https://cappseq.stanford.edu
+* sourcecode available but restrictive license
