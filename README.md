@@ -21,3 +21,47 @@
 ## Ensembl
 
 * March 2017 *Ensembl core software resources: storage and programmatic access for DNA sequence and genome annotation* https://academic.oup.com/database/article-lookup/doi/10.1093/database/bax020
+
+
+## Groups
+
+* European Bioinformatics Institute `EBI`
+  * EU > European Moleculary Biology Laboratory `EMBL` > `EBI`
+* Human Genome Project `HGP` *1990~*
+  * Funded by `NIH` + world
+* Ensembl *1999~*
+  * joint project between European Bioinformatics Institute `EBI` and Wellcome Trust Sanger Institute
+  * response to imminent completion of `HGP`
+* The Cancer Genome Atlas `TCGA`
+  * US Dept of Health and Human Services > National Institutes of Health `NIH` > National Cancer Institute `NCI`
+* Cancer Genome Project `CGP`
+  * UK > Wellcome Trust Sanger Institute
+  * Catalogue of Somatic Mutations in Cancer `COSMIC` database
+    * Curates data from:
+      * literature
+      * screening projects from CGP
+* International Cancer Genome Consortium **ICGC** *2008~*
+  * Funded by participating nations; secretariat is the Ontario Institute for Cancer Research `OICR`
+* University of California, Santa Crus `UCSC`
+  * UCSC Genome Browser
+    * Originally for distribution of `GHP` results
+  * Other tools: BLAT, liftOver
+* National Center for Biotechnology Information `NCBI`
+  * US > `NIH` > National Library of Medicine `NLM`> `NCBI`
+  * directed by BLAST author (David Lipman)
+  * Databases (all are available through the `Entrez` search engine):
+    * GenBank -- DNA sequences
+    * PubMed -- literature
+* BioMart
+  * Community-driven; originated at `EBI`
+  
+## Genome browsers
+
+* Ensembl
+* NCBI
+* UCSC
+
+# Databases
+
+* GenBank
+  * ...
