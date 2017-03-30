@@ -17,3 +17,7 @@
 
 * https://cappseq.stanford.edu
 * sourcecode available but restrictive license
+
+## Ensembl
+
+* March 2017 *Ensembl core software resources: storage and programmatic access for DNA sequence and genome annotation* https://academic.oup.com/database/article-lookup/doi/10.1093/database/bax020
