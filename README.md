@@ -52,16 +52,23 @@
   * Databases (all are available through the `Entrez` search engine):
     * GenBank -- DNA sequences
     * PubMed -- literature
+    * dbSNP
 * BioMart
   * Community-driven; originated at `EBI`
+* International HapMap Project *2002~*
+  * world non-/for-profit groups, added ~10 million entries to dbSNP
+  * shut down 2016-06-16
+* 1000 Genomes Project `1KGP` *2008~2015*
+  * catalogue of variants within and among ethnic groups
   
+
 ## Genome browsers
 
 * Ensembl
 * NCBI
 * UCSC
 
-# Databases
+## Databases
 
 * GenBank
   * ...
