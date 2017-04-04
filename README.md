@@ -72,3 +72,9 @@
 
 * GenBank
   * ...
+
+# Tools
+
+## SeqMonk
+
+* http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/
