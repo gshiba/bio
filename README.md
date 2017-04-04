@@ -78,3 +78,11 @@
 ## SeqMonk
 
 * http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/
+
+
+# Dashboards / Dataviz
+
+## Keen IO
+
+* bootstrap dashboard template; plotly; d3js
+* https://github.com/keen/dashboards
